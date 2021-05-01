@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nickhelper
+- 👀 I’m interested in stylish names and nicknames
+- 🌱 I’m currently learning web development, plan to make a stylish name generator tool
+- 💞️ I’m looking to collaborate on name generator tool development
+- 📫 How to reach me - dm me (:
